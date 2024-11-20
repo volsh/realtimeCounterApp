@@ -1,0 +1,3 @@
+[submodule "realtime-counter"]
+	path = realtime-counter
+	url = https://github.com/volsh/realtimeCounterFront.git
